@@ -79,6 +79,8 @@ for(faculty of faculties){
 	faculty_option.appendChild(tag);
 }
 
+
+
 //ProgramStudy
 let program_study = document.querySelector("#program-study-form");
 
